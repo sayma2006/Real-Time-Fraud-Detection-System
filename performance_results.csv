@@ -1,0 +1,6 @@
+Requests,Average Response Time (ms),Throughput (requests/sec),Memory Used (MB)
+10,13.56,73.73,0.25
+50,13.86,72.14,0.02
+100,15.95,62.7,0.0
+500,16.11,62.07,0.0
+1000,16.11,62.07,0.0
