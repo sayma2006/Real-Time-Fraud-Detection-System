@@ -1,0 +1,6 @@
+Requests,Average Response Time (ms),Throughput (requests/sec),Server Memory Before (MB),Server Memory After (MB),Memory Change (MB)
+10,18.33,54.57,327.04,330.53,3.49
+50,13.78,72.57,330.53,331.93,1.4
+100,16.44,60.84,331.93,332.74,0.81
+500,16.11,62.06,332.74,333.66,0.91
+1000,16.21,61.68,333.66,334.35,0.7
